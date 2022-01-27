@@ -1,0 +1,10 @@
+.c-number-input {
+  padding: 8px;
+  font-size: 32px;
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: center;
+  width: 5ch;
+  border-radius: 4px;
+  border-width: 4px;
+}
